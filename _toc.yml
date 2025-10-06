@@ -1,0 +1,16 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: overview
+chapters:
+- file: scratchpad
+- file: buckets
+- file: lambda1
+- file: lambda2
+- file: test-pipeline-1
+- file: test-pipeline-2
+- file: understand-pipeline
+- file: reset-and-run
+- file: troubleshooting
+- file: submission
