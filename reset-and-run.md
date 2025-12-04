@@ -8,7 +8,7 @@ You will remove the test data from S3 so that you can upload multiple order file
 4. Follow the instructions on the page to permanently delete the objects
 
 ## Run the Full Project
-1. [Download the test file `final_pipeline_orders.zip` provided to you](https://github.com/mgmt-59000-cc/aws-final-project-assets/blob/main/final_pipeline_orders.zip){target="_blank" rel="noopener noreferrer"}
+1. [Download the test file `final_pipeline_orders.zip` provided to you](https://github.com/mgmt-59000-cc/aws-final-project-assets/blob/main/final_pipeline_orders.zip)
 	- Choose the  **Download Raw File** button to download the file
     - UNZIP this folder on your local machine
 	- You should see a folder with 1,000 CSV files – each representing an individual order
@@ -22,6 +22,9 @@ You will remove the test data from S3 so that you can upload multiple order file
 1. Open the browser tab that displays your Order Analytics Report
 2. Refresh the page to see the numbers change as new orders are processed
 	- It will take ~10 minutes to process all the orders – *Remember! This is a demonstration and is not using the full processing power available to us.*
+
+## Run the "Summary" Lambda
+1. After the pipeline has finished processing, you should manually trigger the third Lambda by using the "test" functionality described [on that page](lambda-3)
 
 ## Special Note - Results
 Because this is a demo/prototype and we are using limited sandbox resources, you **MAY NOT** see 1,000 orders in your final Order Analytics Report.

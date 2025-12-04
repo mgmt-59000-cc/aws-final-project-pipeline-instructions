@@ -5,7 +5,7 @@ This part adds a third Lambda function that reads all valid JSON files, computes
 Follow the steps below in order.
 
 ---
-
+(lambda-3)=
 ## 1. Create Lambda 3 Function
 
 1. Go to AWS Console → **Lambda**  

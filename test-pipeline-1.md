@@ -3,7 +3,7 @@
 **Note:** This project includes Parts 6 and 7 that add validation and summary aggregation features. Complete the main pipeline first, then proceed to Parts 6 and 7.
 
 ## Test with E-commerce Order CSV
-1. [Download the test file `test_order_e.csv` provided to you](https://github.com/mgmt-59000-cc/aws-final-project-assets/blob/main/test_order_e.csv){target="_blank" rel="noopener noreferrer"}
+1. [Download the test file `test_order_e.csv` provided to you](https://github.com/mgmt-59000-cc/aws-final-project-assets/blob/main/test_order_e.csv)
 	- Choose the  **Download Raw File** button to download the file
 2. Search for **S3** in AWS console
 3. Click on your **upload bucket** name

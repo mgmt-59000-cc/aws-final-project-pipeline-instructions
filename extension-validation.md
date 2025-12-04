@@ -12,7 +12,7 @@ Follow the steps below in order.
 1. Go to AWS Console → Lambda  
 2. Open your **CSV-to-JSON Lambda (Lambda 1)**  
 3. Click **Code**  
-4. Replace the existing code with the version in Step 4
+4. Replace the existing code with the version in Step 4 (below)
 
 ---
 
