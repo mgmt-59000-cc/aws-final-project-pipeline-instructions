@@ -7,3 +7,4 @@ You will need to store several values that you'll use repeatedly in this project
 * **Reports bucket name:** 
 * **Lambda 1 name:** 
 * **Lambda 2 name:** 
+* **Lambda 3 name:** 
