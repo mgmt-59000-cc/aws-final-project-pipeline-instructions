@@ -1,5 +1,7 @@
 # Part 3: Create Lambda 2 (JSON to HTML Report Generator)
 
+**Note:** This project includes Parts 6 and 7 that add validation and summary aggregation features. These enhance the pipeline with validation and additional reporting capabilities.
+
 ## Create the Lambda Function
 1. Return to the Lambda dashboard
 2. Click the orange **"Create function"** button
@@ -15,7 +17,7 @@
 5. Copy the function name to your scratchpad as "Lambda 2 name"
 
 ## Upload the Lambda Code
-1. [Download the `json-to-html-function.zip` file provided to you](https://github.com/mgmt-59000-cc/aws-final-project-assets/blob/main/json-to-html-function.zip){target="_blank" rel="noopener noreferrer"}
+1. [Download the `json-to-html-function.zip` file provided to you](https://github.com/mgmt-59000-cc/aws-final-project-assets/blob/main/json-to-html-function.zip)
 	- Choose the  **Download Raw File** button to download the file
     - DO NOT unzip the file – keep it in its zipped format
 2. With the **Code** tab highlighted, click **"Upload from"** and choose **.zip file**

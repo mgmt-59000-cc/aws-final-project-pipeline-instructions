@@ -1,4 +1,4 @@
-# Part 6: Understanding the Pipeline
+# Part 8: Understanding the Pipeline
 
 ## What Happens When You Upload a CSV?
 
@@ -28,6 +28,11 @@
 4. **View Results**
    - Access the HTML report via the S3 object URL
    - Report updates automatically with each new file processed
+
+> [!IMPORTANT]
+> **What about Lambda #3?**
+> 
+> Although you have created 3 Lambda functions, only *the first two* are truly a part of your "pipeline" (meaning: they will run automatically when documents are uploaded to your "uploads" bucket). The third Lambda that creates the summary CSV file is *manually triggered* and, thus, isn't a part of the automated pipeline!
 
 ## Key Concepts Demonstrated
 

@@ -1,5 +1,7 @@
 # Troubleshooting
 
+**Note:** For Parts 6 and 7, additional troubleshooting may be needed for Lambda 3 and validation features.
+
 ## Lambda 1 Not Triggering
 - Check CloudWatch logs for errors
 - Verify CSV filename ends with `_e.csv` or `_s.csv`

@@ -4,6 +4,8 @@ In this project, you will build a serverless data processing pipeline using AWS 
 2. Transform them to JSON format with additional metadata
 3. Generate an HTML analytics report with statistics from all processed files
 
+**Note:** This project includes Parts 6 and 7 that add validation and summary aggregation features to enhance the pipeline.
+
 ## Scenario
 You work for an online clothing retailer that is owned by a holding company: BTFU Group. 
 

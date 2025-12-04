@@ -1,5 +1,7 @@
 # Part 1: Create S3 Buckets
 
+**Note:** This project includes Parts 6 and 7 that add validation and summary aggregation features. These are covered in separate sections.
+
 ## Create Bucket 1: Upload Bucket (for CSV files)
 1. Search for **S3** in AWS console
 2. From the dashboard, click the orange **"Create bucket"** button

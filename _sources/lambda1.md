@@ -1,5 +1,7 @@
 # Part 2: Create Lambda 1 (CSV to JSON Transformer)
 
+**Note:** This project includes Parts 6 and 7 that add validation and summary aggregation features. Part 6 adds validation to Lambda 1 to separate valid and invalid records.
+
 ## Create the Lambda Function
 1. Search for **Lambda** in AWS console
 2. From the dashboard, click the orange **"Create function"** button
@@ -16,7 +18,7 @@
 6. Dismiss the "Getting started" dialog box
 
 ## Upload the Lambda Code
-1. [Download the `csv-to-json-function.zip` file provided to you at this link](https://github.com/mgmt-59000-cc/aws-final-project-assets/blob/main/csv-to-json-function.zip){target="_blank" rel="noopener noreferrer"}
+1. [Download the `csv-to-json-function.zip` file provided to you at this link](https://github.com/mgmt-59000-cc/aws-final-project-assets/blob/main/csv-to-json-function.zip)
 	- Choose the  **Download Raw File** button to download the file
     - DO NOT unzip the file – keep it in its zipped format
 2. With the **Code** tab highlighted, click **"Upload from"** and choose **.zip file**
